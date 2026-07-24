@@ -31,7 +31,7 @@ headers = {
 }
 
 
-bot = TeleBot("6615646401:AAEcGGhblm1hezvXx3bd9VZEMuEJnnUR61I",parse_mode="HTML")
+bot = TeleBot("BOT_TOKEN",parse_mode="HTML")
 
 button = InlineKeyboardMarkup()
 group = InlineKeyboardButton(text="Group",url="t.me/neuralg")
