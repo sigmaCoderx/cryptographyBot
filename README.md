@@ -22,8 +22,8 @@ A simple Telegram bot built with Python that encrypts and decrypts text using th
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/telegram-encrypt-bot.git
-cd telegram-encrypt-bot
+git clone https://github.com/sigmaCoderx/cryptographyBot.git
+cd cryptographyBot
 ```
 
 ### Create a virtual environment (Optional)
@@ -71,7 +71,7 @@ with your BotFather token.
 You can also update the Telegram links:
 
 ```python
-Group
+Group 
 Channel
 ```
 
