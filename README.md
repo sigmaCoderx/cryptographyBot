@@ -68,15 +68,6 @@ bot = TeleBot("BOT_TOKEN", parse_mode="HTML")
 
 with your BotFather token.
 
-You can also update the Telegram links:
-
-```python
-Group 
-Channel
-```
-
-to your own community links.
-
 ## Usage
 
 Start the bot.
