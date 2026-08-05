@@ -98,6 +98,11 @@ Press **Decrypt** to convert it back.
 ## Project Structure
 
 ```
+cryptographyBot/
+├── main.py
+├── requirements.txt
+├── Procfile
+└── README.md
 .
 ├── main.py
 ├── requirements.txt
